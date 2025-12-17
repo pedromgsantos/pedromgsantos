@@ -6,15 +6,7 @@
 
 ###
 
-<p align="left">I'm particularly interested in Machine Learning, Computer Vision and Generative AI.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Writing code that mysteriously works… and then immediately stops working when someone is watching.<br>📚 Currently learning Machine Learning, Computer Vision, Generative AI and deep-learning frameworks like PyTorch, TensorFlow and OpenCV.<br>🎯 Goals: build a solid portfolio in ML/AI, master practical model development and work confidently with real-world data.<br>🎲 My favourite combo: gaming to relax and programming to undo all that relaxation.</p>
+<p align="left">I'm currently on a journey through Machine Learning, Computer Vision, Generative AI and deep-learning frameworks like PyTorch, TensorFlow and OpenCV, aiming to build a strong portfolio, master practical model development and work confidently with real-world data.</p>
 
 ###
 
