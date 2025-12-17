@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro and I'm a Data Science and Advanced Analytics Student.</p>
+<p align="left">My name is Pedro and I'm a Data Science Student at NOVA IMS.</p>
 
 ###
 
